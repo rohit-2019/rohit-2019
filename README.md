@@ -11,13 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <div align="center">
   <h2> 
-    Hi, there! I am Rohit Kumar Gupta <img src="https://github.com/rohit-2019/rohit-2019/blob/main/hi.gif" width="30px">
+    Hi, there! I am Rohit Kumar Gupta 
   </h2>
 </div>
-
+-->
 ### 👨🏻‍💻 &nbsp;About Me
 
 
@@ -27,7 +26,7 @@ Here are some ideas to get you started:
 - 🌱 &nbsp;I am currently learning skills to become AI Developer.
 - 👯 &nbsp;I am looking to collaborate on various Machine Learning, Deep Leaning project and Artificial Projects.
 - ✍️ &nbsp;Reach me at rohitbangalore2019@gmail.com
-- 💼 &nbsp;Connect me at  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/rohit2019/)
+- 💼 &nbsp;Connect me at  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/rohit2019/) <img src="https://github.com/rohit-2019/rohit-2019/blob/main/hi.gif" width="30px">
 
 ### ⚙️ &nbsp;GitHub Analytics
 
