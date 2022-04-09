@@ -20,12 +20,15 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/rohit2019/)
+
 <!--[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@rohit2019/)](https://medium.com/@rohit2019) -->
 
-🔭 &nbsp;I am currently transforming my career in Machine Learning and Artificial Intelligence related technologies.\
-💡 &nbsp;My current objective is to get an opportunity to work with an organization whereby I can learn, innovate, and evolve continuously along with adding value to the organization and clients I work for.\
-✍️ &nbsp;Apart from technical stuff, music is something which soothes me and I love to listen musics in my free time.
+- 🔭 &nbsp;I am currently transforming my career in Machine Learning and Artificial Intelligence related technologies.
+- 🌱 &nbsp;I am currently learning skills to become AI Developer.
+- ✍️ &nbsp;Apart from technical stuff, music is something which soothes me and I love to listen musics in my free time.
+- 👯 &nbsp;I’m looking to collaborate on various Machine Learning, Deep Leaning project and Artificial Projects.
+- 📫 &nbsp;Reach me at rohitbangalore2019@gmail.com
+- 💼 &nbsp;Connect me at [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/rohit2019/)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
