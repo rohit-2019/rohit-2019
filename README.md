@@ -25,10 +25,9 @@ Here are some ideas to get you started:
 
 - 🔭 &nbsp;I am currently transforming my career in Machine Learning and Artificial Intelligence related technologies.
 - 🌱 &nbsp;I am currently learning skills to become AI Developer.
-- ✍️ &nbsp;Apart from technical stuff, music is something which soothes me and I love to listen musics in my free time.
-- 👯 &nbsp;I’m looking to collaborate on various Machine Learning, Deep Leaning project and Artificial Projects.
-- 📫 &nbsp;Reach me at rohitbangalore2019@gmail.com
-- 💼 &nbsp;Connect me at [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/rohit2019/)
+- 👯 &nbsp;I am looking to collaborate on various Machine Learning, Deep Leaning project and Artificial Projects.
+- ✍️ &nbsp;Reach me at rohitbangalore2019@gmail.com
+- 💼 &nbsp;Connect me at  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/rohit2019/)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -48,11 +47,11 @@ Here are some ideas to get you started:
 
 Technologies that I've been learning and I've picked up along my programming journey.
 
-<img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/MongoDB-3776AB?style=for-the-badge&logo=mongodb&logoColor=white">
  
 <!-- <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">  -->
+  -->
 
 
 
