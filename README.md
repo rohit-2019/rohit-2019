@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 ### 👨🏻‍💻 &nbsp;About Me  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/rohit2019/) <img src="https://github.com/rohit-2019/rohit-2019/blob/main/hi.gif" width="30px">  [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@rohit2019/)](https://medium.com/@rohit2019)
 
-- ✍️ &nbsp;I am currently transforming my career in Machine Learning and Artificial Intelligence related technologies.
+- ✍️ &nbsp;I am currently transforming my career to Machine Learning and Artificial Intelligence related technologies.
 - 🌱 &nbsp;I am currently learning skills to become AI Developer.
 - 👯 &nbsp;I am looking to collaborate on various Machine Learning, Deep Leaning project and Artificial Projects.
 
